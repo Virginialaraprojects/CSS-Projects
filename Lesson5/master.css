@@ -1,0 +1,37 @@
+body{
+    background-color: #EFE2BA;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#4056a1;
+    font-size: 15px;
+}
+
+h1,h2{
+    font-family:Helvetica, Arial, sans-serif;
+    color: #F13C20;
+    font-size: 50px;
+    margin: 0;
+}
+
+h1{
+    border: dashed 1px#D79922;
+    background-color: #C5CBE3;
+    font-size: 4em;
+    padding: 10px;
+
+}
+
+ol{
+    border: solid 4px #D79922;
+    background: #C5CBE3;
+    padding: 20px 20px 20px 40px;
+    margin: 5% 0;
+
+}
+
+a{
+    color: #F13C20 ;
+}
+
+strong{
+    color:hotpink;
+}
